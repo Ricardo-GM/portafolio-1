@@ -1,8 +1,16 @@
-# React + Vite
+# Portafolio Ricardo García Meza
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Portafolio creado por Ricardo García Meza.
 
-Currently, two official plugins are available:
+Tecnologías utilizadas:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React JS ⚛️ (https://react.dev/).
+- Vite ⚡ (https://vitejs.dev/).
+- TailWind CSS 📐 (https://tailwindcss.com/).
+- GetForm ✉️ (https://getform.io/).
+
+Librerías Utilizadas:
+
+- react-scroll ⬇️.
+- react-icons 🎨.
+

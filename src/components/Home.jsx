@@ -9,7 +9,7 @@ const Home = () => {
     <div name='home' className='h-screen w-full bg-gradient-to-b from-black to-gray-800'>
       <div className='max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row'>
         <div className='flex flex-col justify-center h-full'>
-          <h2 className='text-4xl sm:text-7xl font-bold text-white'>Bachiller en Ingeniería de Software</h2>
+          <h2 className='text-4xl sm:text-7xl font-bold text-white'>Soy un Ingeniero de Software</h2>
           <p className='text-gray-500 py-4 max-w-md'>
            Con 4 años de experiencia en el rol de analista de calidad especializado en análisis, gestión, implementación y administración de proyectos para el sector BFSI.Proactivo, cooperativo, facilidad de trabajo en equipo orientado a resultados y de aprendizaje constante, entusiasta en el uso de tecnologías vanguardistas e interesado en la automatización.
           </p>
